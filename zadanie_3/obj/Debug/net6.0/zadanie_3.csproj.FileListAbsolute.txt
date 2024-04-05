@@ -1,0 +1,14 @@
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\bin\Debug\net6.0\zadanie_3.exe
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\bin\Debug\net6.0\zadanie_3.deps.json
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\bin\Debug\net6.0\zadanie_3.runtimeconfig.json
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\bin\Debug\net6.0\zadanie_3.dll
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\bin\Debug\net6.0\zadanie_3.pdb
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.AssemblyInfoInputs.cache
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.AssemblyInfo.cs
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.csproj.CoreCompileInputs.cache
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.dll
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\refint\zadanie_3.dll
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.pdb
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\zadanie_3.genruntimeconfig.cache
+D:\ИДБ-22-14\Очаев\zadanie1\zadanie_3\obj\Debug\net6.0\ref\zadanie_3.dll
